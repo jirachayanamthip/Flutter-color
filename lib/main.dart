@@ -53,6 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
       
         title: Text(widget.title),
       ),
+      backgroundColor: Colors.pink.shade50,
       body: Center(
        
         child: Column(
